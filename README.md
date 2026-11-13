@@ -58,6 +58,11 @@ Star Kitchen is a responsive food ordering website built using React.js and Tail
 
 5. Open the local URL displayed in your terminal.
 
+## 🌐 Live Demo
+
+[Visit Star Kitchen](https://star-fooddelivery-app.netlify.app/)
+
+
 ## 👩‍💻 Developed By
 
 **Aksa Gori**
