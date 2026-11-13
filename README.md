@@ -1,19 +1,66 @@
-# React + Vite
+# 🍽️ Star Kitchen – Food Ordering Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Star Kitchen is a responsive food ordering website built using React.js and Tailwind CSS. It allows users to explore food items, search for dishes, filter food by categories and manage their shopping cart.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Food Categories:** Browse food items by different categories.
+- **Search Food:** Search for dishes by name.
+- **Food Cards:** View food images, names, prices and food labels.
+- **Add to Cart:** Add food items to the shopping cart.
+- **Cart Management:** Increase, decrease or remove items.
+- **Price Calculation:** Automatically calculate subtotal, delivery charges, taxes and total amount.
+- **Order Confirmation:** Display order confirmation and clear the cart.
+- **Notifications:** Show success and error messages using React Toastify.
+- **Responsive Design:** User-friendly layout for mobile, tablet and desktop screens.
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Tailwind CSS
+- React Hooks
+- Context API
+- Redux Toolkit
+- React Redux
+- React Icons
+- React Toastify
+- Vite
+- Netlify
 
-Note: This will impact Vite dev & build performances.
-You can also try [the experimental native React Compiler support in plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md#rust-react-compiler) by using `compiler: true` in the plugin options instead of using the Babel plugin.
+## ⚙️ Installation and Setup
 
-## Expanding the ESLint configuration
+1. Clone the repository:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+   ```bash
+   git clone https://github.com/AksaGori/Star-Kitchen.git
+   ```
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd Star-Kitchen
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL displayed in your terminal.
+
+## 👩‍💻 Developed By
+
+**Aksa Gori**
+
+- GitHub: https://github.com/AksaGori
+- LinkedIn: https://www.linkedin.com/in/aqsa-gori/
